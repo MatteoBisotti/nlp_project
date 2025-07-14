@@ -1,4 +1,4 @@
-# NLP Project
+# NLP Project - Politics of emotions or propaganda?
 
 Bisotti Matteo 66144A
 
